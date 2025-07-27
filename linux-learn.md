@@ -166,3 +166,4 @@ usermod修改用户组、id命令查看用户信息
 getent passwd查看系统全部用户信息
 getent group查看系统全部组信息
 getent
+getent
