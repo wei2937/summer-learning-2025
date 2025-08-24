@@ -39,3 +39,26 @@ WSL（Windows Subsystem for Linux）是一个让你在 Windows 系统里运行 L
 
 ### 优势总结
 不用离开 Windows 也能享受 Linux 命令行和工具，轻松实现代码编写、调试和部署，将 Windows 机器变身为“开发神器”。
+# 安装配置
+启动Windows Subsystem for Linux
+通过控制面板
+打开屏幕左下角“Cortana搜索框”输入“control panel”搜索并打开搜索结果中的“控制面板”
+!(E:\图片\1.png)
+
+找到启用或关闭Windows功能，如图所示，打开“程序”——“启用或关闭Windows功能”，找到并勾选“适用于Linux的Windows子系统”，点击“确定”。
+!(E:\图片\2.png)
+
+
+安装完成后重启电脑~
+
+## 通过应用商店安装Linux发行版
+打开Win10应用商店搜索你喜欢的Linux发行版并安装。目前，WSL支持Ubuntu，Kali Linux，GNU，OpenSUSE等发行版。通过应用商店安装的Linux发行版只支持安装在C盘！
+
+以安装Ubuntu为例，安装完成后搜索并打开Ubuntu执行后续安装。
+!(E:\图片\3.png)
+!(E:\图片\4.png)
+
+安装完成后按提示输入默认用户名、密码。
+!(E:\图片\5.png)
+
+全部完成！今后我们可以通过Ubuntu应用打开一个WSL的Ubuntu命令行窗口。Enjoy!
